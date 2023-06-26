@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="jbolivarg@192.168.0.10:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/jbolivarg/people_count_YOLO-3" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/home/jbolivarg/people_count_YOLO-3/webservice" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
